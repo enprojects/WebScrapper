@@ -1,0 +1,97 @@
+﻿-------------------------------------------------------------------
+You may only use the Microsoft .NET Core Debugger (vsdbg) with
+Visual Studio Code, Visual Studio or Visual Studio for Mac software
+to help you develop and test your applications.
+-------------------------------------------------------------------
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/app/bin/Debug/netcoreapp3.1/ScrpperAPI.dll'. Symbols loaded.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Hosting.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Hosting.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Hosting.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Configuration.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.DependencyInjection.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.DependencyInjection.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Logging.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Collections.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/netstandard.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.ComponentModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.IO.FileSystem.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Runtime.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Hosting.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Configuration.EnvironmentVariables.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Threading.Tasks.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Server.Kestrel.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Server.Kestrel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Server.IIS.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Runtime.InteropServices.RuntimeInformation.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Runtime.InteropServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Server.IISIntegration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Configuration.CommandLine.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Configuration.UserSecrets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.FileProviders.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.FileProviders.Physical.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Memory.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Configuration.FileExtensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Configuration.Json.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Configuration.Binder.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Private.Uri.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Http.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.FileProviders.Composite.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Xml.XDocument.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Private.Xml.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Private.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Threading.Thread.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Security.Cryptography.Algorithms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Collections.Concurrent.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Text.Encoding.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.IO.FileSystem.Watcher.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.ComponentModel.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.FileSystemGlobbing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Threading.Timer.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Buffers.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Text.Json.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Numerics.Vectors.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Runtime.CompilerServices.Unsafe.dll'. Module was built without symbols.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Options.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Logging.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Logging.EventLog.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Logging.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Options.ConfigurationExtensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Logging.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Logging.Debug.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Logging.EventSource.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Diagnostics.Tracing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Diagnostics.DiagnosticSource.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Http.Features.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Http.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Connections.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Net.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.HostFiltering.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.HttpOverrides.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Routing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.ObjectPool.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Routing.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.ObjectModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Mvc.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Mvc.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Mvc.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Mvc.ApiExplorer.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Authentication.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Authentication.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Security.Claims.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Authorization.Policy.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Authorization.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Mvc.Cors.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Cors.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.AspNetCore.Mvc.DataAnnotations.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.Reflection.Emit.Lightweight.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded '/usr/share/dotnet/shared/Microsoft.AspNetCore.App/3.1.5/Microsoft.Extensions.Localization.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The program 'dotnet' has exited with code 0 (0x0).

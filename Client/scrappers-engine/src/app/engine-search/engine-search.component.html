@@ -1,0 +1,21 @@
+
+<div class="container">
+  <div class="input-group mb-3 container">
+    <div class="input-group-prepend">
+      <button (click)="getResult()" class="btn btn-outline-primary" type="button">Search</button>
+    </div>
+    <input type="text" class="form-control" placeholder="Some text" [(ngModel)]="term">
+
+
+
+  </div>
+
+  <div class="container">
+    <ul class="list-group">
+      <li style="list-style-type: none;" class="list-group-item" *ngFor="let item of results$ | async; index as i">
+        {{ item.searchEngine }} - {{item.title}}
+      </li>
+
+    </ul>
+  </div>
+</div>
